@@ -1,0 +1,6 @@
+preto = (0,0,0)
+branco = (255, 255, 255)
+vermelho = (255, 0, 0)
+verde_grama = (124, 252, 0)
+verde_grama_escuro = (62, 176, 0)
+barrocor = (198, 154, 98)
